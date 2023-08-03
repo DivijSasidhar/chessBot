@@ -3,7 +3,8 @@ from random import randint
 
 
 # todo: give bot a double var (0, 1) for every (is_) variable, which is the weight of each (is_)
-#   multiply all the weights together for each move, with every
+#   multiply all the weights together for each move
+
 '''
 initialization 
 '''
